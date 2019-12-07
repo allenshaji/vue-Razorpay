@@ -1,4 +1,7 @@
-# vueproject
+# vueRazorpay Payment Gateway Integration
+
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script> 
+Add this script in index.html
 
 ## Project setup
 ```
