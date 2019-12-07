@@ -19,11 +19,11 @@ npm run serve
 ```
 npm run build
 ```
-###Star my repository.
+### Star my repository.
 
-###Follow to my account
+### Follow to my account
 
-###Share with your friends!!
+### Share with your friends!!
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
